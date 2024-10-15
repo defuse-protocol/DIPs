@@ -8,3 +8,4 @@ the intent.
 
 | Number | Title | Author | Status | 
 | ------ | ----- | ------ | ------ |
+| DIP-4  | ----- | ------ | ------ |
